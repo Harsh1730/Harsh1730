@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coading and music 
 - 🌱 I’m currently learning React js
 - 💞️ I’m looking to collaborate on projects including html, css, javascript and java 
-- 📫 How to reach me just mail me on harshsaini2070@gamil.com
+- 📫 How to reach me just mail me on harshsaini0246@gamil.com
 - ⚡ Fun fact: i learnt css html and js in less than 10 days
 
 <!---
